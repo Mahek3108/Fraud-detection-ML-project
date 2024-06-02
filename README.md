@@ -1,2 +1,3 @@
 # ML-projects
-personal projects on ML and deep learning
+Project on fraud detection using multiple ML algorithms. 
+Dataset used:- https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data
